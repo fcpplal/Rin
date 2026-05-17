@@ -102,7 +102,7 @@ function Footer() {
                             setDoubleClickTimes(doubleClickTimes + 1)
                         }
                     }}>
-                        © {new Date().getFullYear()} Web3村长 <a className='hover:underline' href="https://cunzhangai.com/" target="_blank" rel="noopener">AI工具箱</a>
+                        © {new Date().getFullYear()} 大爷 <a className='hover:underline' href="https://fcppl.eu.cc/" target="_blank" rel="noopener">大爷博客</a>
                     </span>
                     {config.getBoolean('rss') && <>
                         <Spliter />
